@@ -461,15 +461,15 @@
         "question" : "what is tallest statue in india",
         "answerLink" : "https://en.wikipedia.org/wiki/List_of_the_tallest_statues_in_India "
     }, 
-        {
-        "id" : "83",
-        "question" : "7amazing facts in india",
-        "answerLink" : "bing.com/images "
-    },
+        
 {
         "id" : "84",
         "question" : "How do you manage your priorities to meet deadlines?",
         "answerLink" : "I usually start by making a square grid to list each task I have to complete in order of relevance and priority. Then I complete the most time-consuming tasks first, so I can take my time focusing on getting each element right, depending on the topic of the assignment. If it's a large assignment, such as a research project, this method helps me get the bulk of the project done so I can focus on the little things last. "
-    }
-
-]
+    },
+{
+        "id" : "85",
+        "question" : "Is There Anything Else You’d Like Us to Know?",
+        "answerLink" : "https://www.themuse.com/advice/how-to-answer-is-there-anything-else-youd-like-us-to-know",
+},
+    
